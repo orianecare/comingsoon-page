@@ -1,0 +1,23 @@
+.optin {
+  margin-top: 2%;
+}
+.optin p {
+  font-size: 14px;
+  font-weight: 100;
+}
+.optin button {
+  color: #fff;
+  padding: 6px 22px;
+  text-transform: uppercase;
+  font-family: "Roboto Condensed", sans-serif;
+  background-color: rgba(255, 255, 255, 0.1);
+  border: solid 2px transparent;
+  cursor: pointer;
+}
+.optin button:hover {
+  border-color: rgba(255, 255, 255, 0.3);
+  background-color: grey;
+}
+.errortext{
+  color: red;
+}
